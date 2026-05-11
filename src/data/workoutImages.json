@@ -1,0 +1,117 @@
+{
+  "workouts": [
+    {
+      "category": "Chest",
+      "exercises": [
+        { "name": "Push-Up", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3-4", "reps": "10-15" },
+        { "name": "Bench Press", "type": "strength", "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg", "sets": "3-5", "reps": "6-10" },
+        { "name": "Incline Bench Press", "type": "strength", "image": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg", "sets": "3-4", "reps": "8-12" },
+        { "name": "Decline Bench Press", "type": "strength", "image": "https://images.pexels.com/photos/841131/pexels-photo-841131.jpeg", "sets": "3", "reps": "8-10" },
+        { "name": "Chest Fly", "type": "strength", "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Cable Crossover", "type": "strength", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Dumbbell Press", "type": "strength", "image": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Chest Dips", "type": "strength", "image": "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Decline Push-Up", "type": "strength", "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Wide Push-Up", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Close Push-Up", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Machine Chest Press", "type": "strength", "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg", "sets": "3", "reps": "10-12" }
+      ]
+    },
+    {
+      "category": "Back",
+      "exercises": [
+        { "name": "Pull-Up", "type": "strength", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "3-4", "reps": "6-12" },
+        { "name": "Deadlift", "type": "strength", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "3-5", "reps": "5-8" },
+        { "name": "Lat Pulldown", "type": "strength", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Bent Over Row", "type": "strength", "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Seated Row", "type": "strength", "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "T-Bar Row", "type": "strength", "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg", "sets": "3", "reps": "8-10" },
+        { "name": "Single Arm Row", "type": "strength", "image": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Hyperextensions", "type": "strength", "image": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Superman Hold", "type": "core", "image": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg", "sets": "3", "reps": "20-30 sec" },
+        { "name": "Reverse Fly", "type": "strength", "image": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Inverted Row", "type": "strength", "image": "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg", "sets": "3", "reps": "10-12" }
+      ]
+    },
+    {
+      "category": "Legs",
+      "exercises": [
+        { "name": "Squats", "type": "strength", "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", "sets": "4", "reps": "8-12" },
+        { "name": "Lunges", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "10 each leg" },
+        { "name": "Leg Press", "type": "strength", "image": "https://images.pexels.com/photos/841131/pexels-photo-841131.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Romanian Deadlift", "type": "strength", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "3", "reps": "8-10" },
+        { "name": "Calf Raises", "type": "strength", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "4", "reps": "15-20" },
+        { "name": "Step-Ups", "type": "strength", "image": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg", "sets": "3", "reps": "10 each leg" },
+        { "name": "Leg Curl", "type": "strength", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Leg Extension", "type": "strength", "image": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Glute Bridge", "type": "strength", "image": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Bulgarian Split Squat", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "8 each leg" }
+      ]
+    },
+    {
+      "category": "Shoulders",
+      "exercises": [
+        { "name": "Shoulder Press", "type": "strength", "image": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg", "sets": "3-4", "reps": "8-12" },
+        { "name": "Lateral Raise", "type": "strength", "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Front Raise", "type": "strength", "image": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Arnold Press", "type": "strength", "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg", "sets": "3", "reps": "8-10" },
+        { "name": "Reverse Fly", "type": "strength", "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Upright Row", "type": "strength", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Face Pull", "type": "strength", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Shrugs", "type": "strength", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "3", "reps": "12-15" }
+      ]
+    },
+    {
+      "category": "Arms",
+      "exercises": [
+        { "name": "Bicep Curl", "type": "strength", "image": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Hammer Curl", "type": "strength", "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Concentration Curl", "type": "strength", "image": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Tricep Dips", "type": "strength", "image": "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg", "sets": "3", "reps": "8-12" },
+        { "name": "Tricep Pushdown", "type": "strength", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Overhead Tricep Extension", "type": "strength", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Close Grip Push-Up", "type": "strength", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "10-15" },
+        { "name": "Skull Crushers", "type": "strength", "image": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg", "sets": "3", "reps": "8-10" }
+      ]
+    },
+    {
+      "category": "Core",
+      "exercises": [
+        { "name": "Plank", "type": "core", "image": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg", "sets": "3", "reps": "30-60 sec" },
+        { "name": "Crunches", "type": "core", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "15-20" },
+        { "name": "Leg Raises", "type": "core", "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", "sets": "3", "reps": "12-15" },
+        { "name": "Russian Twists", "type": "core", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "3", "reps": "20" },
+        { "name": "Mountain Climbers", "type": "core", "image": "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg", "sets": "3", "reps": "30 sec" },
+        { "name": "Bicycle Crunch", "type": "core", "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg", "sets": "3", "reps": "15 each side" },
+        { "name": "Hanging Leg Raise", "type": "core", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "3", "reps": "10-12" },
+        { "name": "Flutter Kicks", "type": "core", "image": "https://images.pexels.com/photos/4498294/pexels-photo-4498294.jpeg", "sets": "3", "reps": "20" }
+      ]
+    },
+    {
+      "category": "Cardio",
+      "exercises": [
+        { "name": "Running", "type": "cardio", "image": "https://images.pexels.com/photos/1555354/pexels-photo-1555354.jpeg", "sets": "1", "reps": "20-30 min" },
+        { "name": "Cycling", "type": "cardio", "image": "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg", "sets": "1", "reps": "30-45 min" },
+        { "name": "Jump Rope", "type": "cardio", "image": "https://images.pexels.com/photos/45056/pexels-photo-45056.jpeg", "sets": "3", "reps": "1-2 min" },
+        { "name": "Burpees", "type": "cardio", "image": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg", "sets": "3", "reps": "10-15" },
+        { "name": "High Knees", "type": "cardio", "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", "sets": "3", "reps": "30 sec" },
+        { "name": "Mountain Climbers", "type": "cardio", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "3", "reps": "30 sec" },
+        { "name": "Jumping Jacks", "type": "cardio", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "3", "reps": "20-30" },
+        { "name": "Rowing Machine", "type": "cardio", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "1", "reps": "15-20 min" }
+      ]
+    },
+    {
+      "category": "Flexibility",
+      "exercises": [
+        { "name": "Yoga", "type": "flexibility", "image": "https://images.pexels.com/photos/317157/pexels-photo-317157.jpeg", "sets": "1", "reps": "20-30 min" },
+        { "name": "Stretching", "type": "flexibility", "image": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg", "sets": "1", "reps": "10-15 min" },
+        { "name": "Cat-Cow Stretch", "type": "flexibility", "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg", "sets": "1", "reps": "10" },
+        { "name": "Child's Pose", "type": "flexibility", "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg", "sets": "1", "reps": "30 sec" },
+        { "name": "Standing Toe Touch", "type": "flexibility", "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", "sets": "1", "reps": "10-12" },
+        { "name": "Seated Forward Bend", "type": "flexibility", "image": "https://images.pexels.com/photos/841131/pexels-photo-841131.jpeg", "sets": "1", "reps": "10-12" },
+        { "name": "Side Stretch", "type": "flexibility", "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg", "sets": "1", "reps": "10 each side" },
+        { "name": "Hip Flexor Stretch", "type": "flexibility", "image": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg", "sets": "1", "reps": "30 sec" }
+      ]
+    }
+  ]
+}
